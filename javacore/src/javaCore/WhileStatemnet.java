@@ -8,6 +8,7 @@ public class WhileStatemnet {
 		while(i<=100)//condition
 		{
 			System.out.println(i);
+			System.out.println(i);
 			i++;//itration
 		}
 
